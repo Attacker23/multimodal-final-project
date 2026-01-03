@@ -1,0 +1,6 @@
+torch
+sentence-transformers
+chromadb
+pypdf
+Pillow
+tqdm
